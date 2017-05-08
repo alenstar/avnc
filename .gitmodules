@@ -4,3 +4,9 @@
 [submodule "ext/android-jpeg-turbo"]
 	path = ext/android-jpeg-turbo
 	url = https://github.com/openstf/android-libjpeg-turbo.git
+[submodule "ext/minicap"]
+	path = ext/minicap
+	url = https://github.com/openstf/minicap.git
+[submodule "ext/libevdev"]
+	path = ext/libevdev
+	url = https://github.com/whot/libevdev.git
