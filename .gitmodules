@@ -10,3 +10,6 @@
 [submodule "ext/libevdev"]
 	path = ext/libevdev
 	url = https://github.com/whot/libevdev.git
+[submodule "ext/libuv"]
+	path = ext/libuv
+	url = https://github.com/alenstar/libuv.git
