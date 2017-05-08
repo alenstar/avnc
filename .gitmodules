@@ -1,0 +1,6 @@
+[submodule "ext/libvncserver"]
+	path = ext/libvncserver
+	url = https://github.com/LibVNC/libvncserver.git
+[submodule "ext/android-jpeg-turbo"]
+	path = ext/android-jpeg-turbo
+	url = https://github.com/openstf/android-libjpeg-turbo.git
